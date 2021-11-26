@@ -82,11 +82,11 @@ ul {
   margin: 0 auto 50px auto;
 }
 
-#tribute-footer {
+.tribute-footer {
   padding-top: 18px;
   padding-bottom: 18px;
+  background-color: #ffffff;
   color: #5b0606;
-  background-color: hsl(13, 26%, 96%);
 }
 
 #tribute-link {
